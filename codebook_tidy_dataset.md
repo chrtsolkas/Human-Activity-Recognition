@@ -17,7 +17,6 @@ The tidy dataset was derived from the original [Human Activity Recognition Using
 
 The dataset examined has the following dimensions:
 
-
 ---------------------------------
 Feature                    Result
 ------------------------ --------
@@ -26,6 +25,7 @@ Number of observations        180
 Number of variables            68
 ---------------------------------
 
+#
 
 ## Naming convations:
 
