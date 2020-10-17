@@ -7,33 +7,33 @@ In our analysis we use the [Human Activity Recognition Using Smartphones Data Se
 
 The processing steps are the following:
 
-* First we download and unzip the database.
+1. First we download and unzip the database.
 
-* Then we read the feature and activity labels.
+2. Then we read the feature and activity labels.
 
-* For the training data:
+3. For the training data:
 
-1. we read the subjects, 
+    * we read the subjects, 
 
-2. we read the activities and we join them with the activity labels to get descriptive activity names, and
+    * we read the activities and we join them with the activity labels to get descriptive activity names, and
 
-3. we read the measurements and label them with the feature labels.
+    * we read the measurements and label them with the feature labels.
 
-* We apply the same processing on the test data.
+4. We apply the same processing on the test data.
 
-* We find the features of interest by searching the feature labels for the phrases "mean(" and "std(".
+5. We find the features of interest by searching the feature labels for the phrases "mean(" and "std(".
 
-* We select only the features of interest from the training and test data and we obtain the training and test data sets.
+6. We select only the features of interest from the training and test data and we obtain the training and test data sets.
 
-* We row bind the two data sets (training and test) and arrange them by subject id.
+7. We row bind the two data sets (training and test) and arrange them by subject id.
 
-* We appropriately label the data set with descriptive variable names.
+8. We appropriately label the data set with descriptive variable names.
 
-* We create an independent tidy data set with the average (mean) of each variable for each activity and each subject.
+9. We create an independent tidy data set with the average (mean) of each variable for each activity and each subject.
 
-* We write the tidy data set on disk.
+10. We write the tidy data set on disk.
 
-* Finally we generate the codebook.
+11. Finally we generate the codebook.
 
 The script [run_analysis.R](./run_analysis.R) contains detailed comments of the applied processing on the data sets.
 
