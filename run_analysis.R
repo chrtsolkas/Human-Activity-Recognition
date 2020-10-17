@@ -130,10 +130,15 @@ dataset <- dataset %>%
 # New descriptive names
 # names(dataset)
 
+# Create the tidy data set
 tidy_dataset <- dataset %>%
   group_by(SubjectID, Activity) %>%
   summarise_at(vars(-group_cols()), mean)
-  
+
+# Write tidy data set to a txt file 
+write.table(tidy_dataset, "tidy_dataset.txt", row.names = FALSE)
+
+# Create the codebook  
 # library(dataMaid)
 # Sys.setlocale(category = "LC_TIME", locale = "en_US.UTF8")
 # makeCodebook(tidy_dataset, replace = TRUE, codebook = TRUE, output = "html", render = FALSE,
