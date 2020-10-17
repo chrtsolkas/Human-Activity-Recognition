@@ -212,7 +212,7 @@ Reference category                1
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-1-SubjectID-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-1-SubjectID-1.png)<!-- -->
 
 </div>
 </div>
@@ -246,7 +246,7 @@ Reference category            LAYING
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-2-Activity-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-2-Activity-1.png)<!-- -->
 
 </div>
 </div>
@@ -282,7 +282,7 @@ Min. and max.                0.22; 0.3
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-3-Time-BodyAcceleration-Mean-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-3-Time-BodyAcceleration-Mean-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -316,7 +316,7 @@ Min. and max.                   -0.04; 0
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-4-Time-BodyAcceleration-Mean-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-4-Time-BodyAcceleration-Mean-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -350,7 +350,7 @@ Min. and max.               -0.15; -0.08
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-5-Time-BodyAcceleration-Mean-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-5-Time-BodyAcceleration-Mean-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -384,7 +384,7 @@ Min. and max.                  -1; 0.63
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-6-Time-BodyAcceleration-Std-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-6-Time-BodyAcceleration-Std-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -418,7 +418,7 @@ Min. and max.                -0.99; 0.62
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-7-Time-BodyAcceleration-Std-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-7-Time-BodyAcceleration-Std-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -452,7 +452,7 @@ Min. and max.                -0.99; 0.61
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-8-Time-BodyAcceleration-Std-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-8-Time-BodyAcceleration-Std-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -486,7 +486,7 @@ Min. and max.               -0.68; 0.97
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-9-Time-GravityAcceleration-Mean-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-9-Time-GravityAcceleration-Mean-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -520,7 +520,7 @@ Min. and max.               -0.48; 0.96
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-10-Time-GravityAcceleration-Mean-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-10-Time-GravityAcceleration-Mean-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -554,7 +554,7 @@ Min. and max.                -0.5; 0.96
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-11-Time-GravityAcceleration-Mean-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-11-Time-GravityAcceleration-Mean-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -588,7 +588,7 @@ Min. and max.                  -1; -0.83
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-12-Time-GravityAcceleration-Std-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-12-Time-GravityAcceleration-Std-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -622,7 +622,7 @@ Min. and max.               -0.99; -0.64
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-13-Time-GravityAcceleration-Std-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-13-Time-GravityAcceleration-Std-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -656,7 +656,7 @@ Min. and max.               -0.99; -0.61
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-14-Time-GravityAcceleration-Std-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-14-Time-GravityAcceleration-Std-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -690,7 +690,7 @@ Min. and max.               0.04; 0.13
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-15-Time-BodyAcceleration-Jerk-Mean-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-15-Time-BodyAcceleration-Jerk-Mean-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -724,7 +724,7 @@ Min. and max.               -0.04; 0.06
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-16-Time-BodyAcceleration-Jerk-Mean-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-16-Time-BodyAcceleration-Jerk-Mean-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -758,7 +758,7 @@ Min. and max.               -0.07; 0.04
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-17-Time-BodyAcceleration-Jerk-Mean-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-17-Time-BodyAcceleration-Jerk-Mean-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -792,7 +792,7 @@ Min. and max.                -0.99; 0.54
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-18-Time-BodyAcceleration-Jerk-Std-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-18-Time-BodyAcceleration-Jerk-Std-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -826,7 +826,7 @@ Min. and max.                -0.99; 0.36
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-19-Time-BodyAcceleration-Jerk-Std-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-19-Time-BodyAcceleration-Jerk-Std-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -860,7 +860,7 @@ Min. and max.                -0.99; 0.03
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-20-Time-BodyAcceleration-Jerk-Std-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-20-Time-BodyAcceleration-Jerk-Std-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -894,7 +894,7 @@ Min. and max.                -0.21; 0.19
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-21-Time-BodyGyroscope-Mean-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-21-Time-BodyGyroscope-Mean-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -928,7 +928,7 @@ Min. and max.                 -0.2; 0.03
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-22-Time-BodyGyroscope-Mean-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-22-Time-BodyGyroscope-Mean-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -962,7 +962,7 @@ Min. and max.               -0.07; 0.18
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-23-Time-BodyGyroscope-Mean-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-23-Time-BodyGyroscope-Mean-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -996,7 +996,7 @@ Min. and max.                -0.99; 0.27
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-24-Time-BodyGyroscope-Std-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-24-Time-BodyGyroscope-Std-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -1030,7 +1030,7 @@ Min. and max.                -0.99; 0.48
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-25-Time-BodyGyroscope-Std-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-25-Time-BodyGyroscope-Std-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -1064,7 +1064,7 @@ Min. and max.                -0.99; 0.56
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-26-Time-BodyGyroscope-Std-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-26-Time-BodyGyroscope-Std-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -1098,7 +1098,7 @@ Min. and max.               -0.16; -0.02
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-27-Time-BodyGyroscope-Jerk-Mean-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-27-Time-BodyGyroscope-Jerk-Mean-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -1132,7 +1132,7 @@ Min. and max.               -0.08; -0.01
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-28-Time-BodyGyroscope-Jerk-Mean-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-28-Time-BodyGyroscope-Jerk-Mean-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -1166,7 +1166,7 @@ Min. and max.               -0.09; -0.01
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-29-Time-BodyGyroscope-Jerk-Mean-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-29-Time-BodyGyroscope-Jerk-Mean-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -1200,7 +1200,7 @@ Min. and max.                   -1; 0.18
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-30-Time-BodyGyroscope-Jerk-Std-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-30-Time-BodyGyroscope-Jerk-Std-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -1234,7 +1234,7 @@ Min. and max.                    -1; 0.3
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-31-Time-BodyGyroscope-Jerk-Std-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-31-Time-BodyGyroscope-Jerk-Std-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -1268,7 +1268,7 @@ Min. and max.                   -1; 0.19
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-32-Time-BodyGyroscope-Jerk-Std-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-32-Time-BodyGyroscope-Jerk-Std-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -1302,7 +1302,7 @@ Min. and max.                -0.99; 0.64
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-33-Time-BodyAccelerationMagnitude-Mean-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-33-Time-BodyAccelerationMagnitude-Mean-1.png)<!-- -->
 
 </div>
 </div>
@@ -1336,7 +1336,7 @@ Min. and max.                -0.99; 0.43
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-34-Time-BodyAccelerationMagnitude-Std-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-34-Time-BodyAccelerationMagnitude-Std-1.png)<!-- -->
 
 </div>
 </div>
@@ -1370,7 +1370,7 @@ Min. and max.                -0.99; 0.64
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-35-Time-GravityAccelerationMagnitude-Mean-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-35-Time-GravityAccelerationMagnitude-Mean-1.png)<!-- -->
 
 </div>
 </div>
@@ -1404,7 +1404,7 @@ Min. and max.                -0.99; 0.43
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-36-Time-GravityAccelerationMagnitude-Std-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-36-Time-GravityAccelerationMagnitude-Std-1.png)<!-- -->
 
 </div>
 </div>
@@ -1438,7 +1438,7 @@ Min. and max.                -0.99; 0.43
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-37-Time-BodyAcceleration-JerkMagnitude-Mean-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-37-Time-BodyAcceleration-JerkMagnitude-Mean-1.png)<!-- -->
 
 </div>
 </div>
@@ -1472,7 +1472,7 @@ Min. and max.                -0.99; 0.45
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-38-Time-BodyAcceleration-JerkMagnitude-Std-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-38-Time-BodyAcceleration-JerkMagnitude-Std-1.png)<!-- -->
 
 </div>
 </div>
@@ -1506,7 +1506,7 @@ Min. and max.                -0.98; 0.42
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-39-Time-BodyGyroscopeMagnitude-Mean-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-39-Time-BodyGyroscopeMagnitude-Mean-1.png)<!-- -->
 
 </div>
 </div>
@@ -1540,7 +1540,7 @@ Min. and max.                 -0.98; 0.3
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-40-Time-BodyGyroscopeMagnitude-Std-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-40-Time-BodyGyroscopeMagnitude-Std-1.png)<!-- -->
 
 </div>
 </div>
@@ -1574,7 +1574,7 @@ Min. and max.                   -1; 0.09
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-41-Time-BodyGyroscope-JerkMagnitude-Mean-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-41-Time-BodyGyroscope-JerkMagnitude-Mean-1.png)<!-- -->
 
 </div>
 </div>
@@ -1608,7 +1608,7 @@ Min. and max.                   -1; 0.25
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-42-Time-BodyGyroscope-JerkMagnitude-Std-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-42-Time-BodyGyroscope-JerkMagnitude-Std-1.png)<!-- -->
 
 </div>
 </div>
@@ -1642,7 +1642,7 @@ Min. and max.                   -1; 0.54
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-43-Frequency-BodyAcceleration-Mean-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-43-Frequency-BodyAcceleration-Mean-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -1676,7 +1676,7 @@ Min. and max.                -0.99; 0.52
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-44-Frequency-BodyAcceleration-Mean-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-44-Frequency-BodyAcceleration-Mean-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -1710,7 +1710,7 @@ Min. and max.                -0.99; 0.28
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-45-Frequency-BodyAcceleration-Mean-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-45-Frequency-BodyAcceleration-Mean-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -1744,7 +1744,7 @@ Min. and max.                  -1; 0.66
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-46-Frequency-BodyAcceleration-Std-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-46-Frequency-BodyAcceleration-Std-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -1778,7 +1778,7 @@ Min. and max.                -0.99; 0.56
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-47-Frequency-BodyAcceleration-Std-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-47-Frequency-BodyAcceleration-Std-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -1812,7 +1812,7 @@ Min. and max.                -0.99; 0.69
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-48-Frequency-BodyAcceleration-Std-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-48-Frequency-BodyAcceleration-Std-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -1846,7 +1846,7 @@ Min. and max.                -0.99; 0.47
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-49-Frequency-BodyAcceleration-Jerk-Mean-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-49-Frequency-BodyAcceleration-Jerk-Mean-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -1880,7 +1880,7 @@ Min. and max.               -0.99; 0.28
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-50-Frequency-BodyAcceleration-Jerk-Mean-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-50-Frequency-BodyAcceleration-Jerk-Mean-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -1914,7 +1914,7 @@ Min. and max.                -0.99; 0.16
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-51-Frequency-BodyAcceleration-Jerk-Mean-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-51-Frequency-BodyAcceleration-Jerk-Mean-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -1948,7 +1948,7 @@ Min. and max.                   -1; 0.48
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-52-Frequency-BodyAcceleration-Jerk-Std-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-52-Frequency-BodyAcceleration-Jerk-Std-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -1982,7 +1982,7 @@ Min. and max.                -0.99; 0.35
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-53-Frequency-BodyAcceleration-Jerk-Std-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-53-Frequency-BodyAcceleration-Jerk-Std-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -2016,7 +2016,7 @@ Min. and max.               -0.99; -0.01
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-54-Frequency-BodyAcceleration-Jerk-Std-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-54-Frequency-BodyAcceleration-Jerk-Std-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -2050,7 +2050,7 @@ Min. and max.                -0.99; 0.47
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-55-Frequency-BodyGyroscope-Mean-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-55-Frequency-BodyGyroscope-Mean-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -2084,7 +2084,7 @@ Min. and max.                -0.99; 0.33
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-56-Frequency-BodyGyroscope-Mean-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-56-Frequency-BodyGyroscope-Mean-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -2118,7 +2118,7 @@ Min. and max.                -0.99; 0.49
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-57-Frequency-BodyGyroscope-Mean-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-57-Frequency-BodyGyroscope-Mean-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -2152,7 +2152,7 @@ Min. and max.                 -0.99; 0.2
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-58-Frequency-BodyGyroscope-Std-X-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-58-Frequency-BodyGyroscope-Std-X-1.png)<!-- -->
 
 </div>
 </div>
@@ -2186,7 +2186,7 @@ Min. and max.                -0.99; 0.65
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-59-Frequency-BodyGyroscope-Std-Y-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-59-Frequency-BodyGyroscope-Std-Y-1.png)<!-- -->
 
 </div>
 </div>
@@ -2220,7 +2220,7 @@ Min. and max.                -0.99; 0.52
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-60-Frequency-BodyGyroscope-Std-Z-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-60-Frequency-BodyGyroscope-Std-Z-1.png)<!-- -->
 
 </div>
 </div>
@@ -2254,7 +2254,7 @@ Min. and max.                -0.99; 0.59
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-61-Frequency-BodyAccelerationMagnitude-Mean-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-61-Frequency-BodyAccelerationMagnitude-Mean-1.png)<!-- -->
 
 </div>
 </div>
@@ -2288,7 +2288,7 @@ Min. and max.                -0.99; 0.18
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-62-Frequency-BodyAccelerationMagnitude-Std-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-62-Frequency-BodyAccelerationMagnitude-Std-1.png)<!-- -->
 
 </div>
 </div>
@@ -2322,7 +2322,7 @@ Min. and max.                -0.99; 0.54
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-63-Frequency-BodyAcceleration-JerkMagnitude-Mean-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-63-Frequency-BodyAcceleration-JerkMagnitude-Mean-1.png)<!-- -->
 
 </div>
 </div>
@@ -2356,7 +2356,7 @@ Min. and max.                -0.99; 0.32
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-64-Frequency-BodyAcceleration-JerkMagnitude-Std-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-64-Frequency-BodyAcceleration-JerkMagnitude-Std-1.png)<!-- -->
 
 </div>
 </div>
@@ -2390,7 +2390,7 @@ Min. and max.                 -0.99; 0.2
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-65-Frequency-BodyGyroscopeMagnitude-Mean-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-65-Frequency-BodyGyroscopeMagnitude-Mean-1.png)<!-- -->
 
 </div>
 </div>
@@ -2424,7 +2424,7 @@ Min. and max.                -0.98; 0.24
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-66-Frequency-BodyGyroscopeMagnitude-Std-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-66-Frequency-BodyGyroscopeMagnitude-Std-1.png)<!-- -->
 
 </div>
 </div>
@@ -2458,7 +2458,7 @@ Min. and max.                   -1; 0.15
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-67-Frequency-BodyGyroscope-JerkMagnitude-Mean-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-67-Frequency-BodyGyroscope-JerkMagnitude-Mean-1.png)<!-- -->
 
 </div>
 </div>
@@ -2492,7 +2492,7 @@ Min. and max.                   -1; 0.29
 
 </div>
 <div class = "col-lg-4">
-![](codebook_tidy_dataset_files/figure-html/Var-68-Frequency-BodyGyroscope-JerkMagnitude-Std-1.png)<!-- -->
+![](https://github.com/chrtsolkas/Human-Activity-Recognition/blob/main/codebook_tidy_dataset_files/figure-html/Var-68-Frequency-BodyGyroscope-JerkMagnitude-Std-1.png)<!-- -->
 
 </div>
 </div>
