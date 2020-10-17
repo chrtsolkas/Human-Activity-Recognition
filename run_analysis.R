@@ -111,7 +111,8 @@ dataset <- bind_rows(training_set, test_set) %>%
 # unique(dataset$SubjectID)
 # sum(is.na(dataset))
 
-names(dataset)
+# Original names 
+# names(dataset)
 
 # Appropriately label the data set with descriptive variable names
 dataset <- dataset %>%
@@ -126,7 +127,8 @@ dataset <- dataset %>%
   rename_with(~ gsub('-mean', '-Mean', .x)) %>%
   rename_with(~ gsub('[()]', '', .x)) # remove parenthesis
 
-names(dataset)
+# New descriptive names
+# names(dataset)
 
 tidy_dataset <- dataset %>%
   group_by(SubjectID, Activity) %>%
